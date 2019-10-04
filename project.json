@@ -1,0 +1,4 @@
+{
+    "GoModule": "github.com/foo/bar",
+    "DockerRepository": "foo/bar"
+}
